@@ -1,3 +1,3 @@
-module github.com/devMiguelFerrer/toolkit
+module github.com/devMiguelFerrer/radstring
 
 go 1.19
